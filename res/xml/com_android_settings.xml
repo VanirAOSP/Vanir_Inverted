@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/appwidget_inner_focused_c_holo">@drawable/appwidget_inner_focused_c_holo</item>
+    <item name="drawable/appwidget_inner_focused_l_holo">@drawable/appwidget_inner_focused_l_holo</item>
+    <item name="drawable/appwidget_inner_focused_r_holo">@drawable/appwidget_inner_focused_r_holo</item>
+    <item name="drawable/appwidget_inner_pressed_c_holo">@drawable/appwidget_inner_pressed_c_holo</item>
+    <item name="drawable/appwidget_inner_pressed_l_holo">@drawable/appwidget_inner_pressed_l_holo</item>
+    <item name="drawable/appwidget_inner_pressed_r_holo">@drawable/appwidget_inner_pressed_r_holo</item>
+    <item name="drawable/ic_appwidget_settings_wifi_off_holo">@drawable/stat_wifi_off</item>
+    <item name="drawable/ic_appwidget_settings_wifi_on_holo">@drawable/stat_wifi_on</item>
+    <item name="drawable/ic_settings_wireless">@drawable/ic_settings_wireless</item>
+    <item name="drawable/appwidget_settings_divider_holo">@drawable/appwidget_settings_divider_holo</item>
+    <item name="drawable/appwidget_settings_ind_mid_c_holo">@drawable/appwidget_settings_ind_mid_c_holo</item>
+    <item name="drawable/appwidget_settings_ind_mid_l_holo">@drawable/appwidget_settings_ind_mid_l_holo</item>
+    <item name="drawable/appwidget_settings_ind_mid_r_holo">@drawable/appwidget_settings_ind_mid_r_holo</item>
+    <item name="drawable/appwidget_settings_ind_off_c_holo">@drawable/appwidget_settings_ind_off_c_holo</item>
+    <item name="drawable/appwidget_settings_ind_off_l_holo">@drawable/appwidget_settings_ind_off_l_holo</item>
+    <item name="drawable/appwidget_settings_ind_off_r_holo">@drawable/appwidget_settings_ind_off_r_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_c_holo">@drawable/appwidget_settings_ind_on_c_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_l_holo">@drawable/appwidget_settings_ind_on_l_holo</item>
+    <item name="drawable/appwidget_settings_ind_on_r_holo">@drawable/appwidget_settings_ind_on_r_holo</item>
+</resource-redirections>

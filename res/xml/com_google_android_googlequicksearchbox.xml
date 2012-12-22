@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/textfield_search_widget_pressed_holo">@drawable/textfield_search_widget_pressed_holo</item>
+    <item name="drawable/textfield_search_widget_focused_holo">@drawable/textfield_search_widget_focused_holo</item>
+    <item name="drawable/bg_pressed">@drawable/bg_pressed</item>
+    <item name="drawable/bg_search_widget">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/bg_widget_stripe_dark_pattern">@drawable/bg_widget_stripe_dark_pattern</item>
+    <item name="drawable/bg_widget_stripe_light_pattern">@drawable/bg_widget_stripe_light_pattern</item>
+    <item name="drawable/divider_vertical">@drawable/divider_vertical</item>
+    <item name="drawable/help_connector">@drawable/help_connector</item>
+    <item name="drawable/textfield_search_right_selected_holo_dark">@drawable/textfield_search_right_selected_holo_dark</item>
+    <item name="drawable/textfield_search_selected_holo_dark">@drawable/textfield_search_selected_holo_dark</item>
+</resource-redirections>

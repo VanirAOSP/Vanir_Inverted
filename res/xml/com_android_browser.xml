@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_browsertabs">@drawable/bg_browsertabs</item>
+    <item name="drawable/bg_urlbar">@drawable/bg_urlbar</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/bookmarks_widget_thumb_selector_focused</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/bookmarks_widget_thumb_selector_pressed</item>
+    <item name="drawable/browsertab_add">@drawable/browsertab_add</item>
+    <item name="drawable/browsertab_add_focused">@drawable/browsertab_add_focused</item>
+    <item name="drawable/browser_background_holo">@drawable/browser_background_holo</item>
+    <item name="drawable/progress">@drawable/progress</item>
+    <item name="drawable/textfield_active_holo_dark">@drawable/textfield_active_holo_dark</item>
+    <item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/thumbnail_bookmarks_widget_no_bookmark_holo</item>
+</resource-redirections>

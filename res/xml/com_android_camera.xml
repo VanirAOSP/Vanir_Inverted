@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_camera_pattern">@drawable/bg_camera_pattern</item>
+    <item name="drawable/bg_switcher">@drawable/bg_switcher</item>
+    <item name="drawable/btn_camera_shutter_holo">@drawable/btn_camera_shutter_holo</item>
+    <item name="drawable/btn_camera_shutter_pressed_holo">@drawable/btn_camera_shutter_pressed_holo</item>
+    <item name="drawable/dialog_full_holo_dark">@drawable/dialog_full_holo_dark</item>
+    <item name="drawable/ic_highlight">@drawable/ic_highlight</item>
+    <item name="drawable/ic_switch_arrow">@drawable/ic_switch_arrow</item>
+    <item name="drawable/ic_zoom_slider_pressed">@drawable/ic_zoom_slider_pressed</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/list_pressed_holo_light</item>
+    <item name="drawable/toast_frame_holo">@drawable/toast_frame_holo</item>
+</resource-redirections>
