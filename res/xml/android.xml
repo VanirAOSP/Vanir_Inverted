@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="style/Widget.Holo.TextView.ListSeparator">@style/Widget.Holo.TextView.ListSeparator</item>
     <item name="drawable/progress_horizontal">@drawable/progress_horizontal</item>
     <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
