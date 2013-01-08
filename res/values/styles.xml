@@ -3,6 +3,19 @@
     <style name="SnapBlack" parent="@*android:style/Theme" />
     <style name="MmsHoloTheme" parent="@*android:style/Theme.Holo">
     </style>
+    <style name="com_android_mms_WidgetTitle" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_android_mms_NotificationPrimaryText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="com_android_mms_NotificationSecondaryText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="com_android_mms_NotificationSubjectText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
     <style name="DialtactsTheme1" parent="@*android:style/Theme.Holo">
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
         <item name="android:windowBackground">@drawable/semi_transparent_bg</item>
